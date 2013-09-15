@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# Mac system files
+.DS_Store
+
+# Vim plugin flies
+.ycm_extra_conf.*
+
+# Pages
+*.pages
